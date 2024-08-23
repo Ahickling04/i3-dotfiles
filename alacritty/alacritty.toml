@@ -1,0 +1,14 @@
+[window]
+opacity = 0.5
+blur = true
+
+[font]
+size = 10.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "regular"
+
+[colors.primary]
+foreground = "#b6b3b0"
+background = "#000000"
